@@ -6,9 +6,13 @@ I've made this because Claude does not have a Linux Desktop Client yet, and the 
 
 ## Install
 
-### Binaries (Mac, Linux, Windows)
+### Binaries (DEB,RPM,AppImage)
 
 Download from https://github.com/0xGingi/claude-tauri-desktop/releases/latest
+
+### Arch Linux (AUR)
+
+AUR Package: https://aur.archlinux.org/packages/claude-tauri-desktop-git
 
 ## Build
 
